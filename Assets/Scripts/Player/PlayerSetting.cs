@@ -10,7 +10,8 @@ public class PlayerSetting : MonoBehaviour
     void Update()
     {
         firstPersonCamera.fieldOfView = Mathf.Clamp(PlayerPrefs.GetFloat("FOV"),60,100);
-        firstPersonCamera.GetComponent<MouseLook>().mouseSensitivity = (PlayerPrefs.GetFloat("Sensitivity") * 10f);
+        float sensitivity = Mathf.Clamp( PlayerPrefs.GetFloat("Sensitivity"),15f,50f);
+        firstPersonCamera.GetComponent<MouseLook>().mouseSensitivity = (sensitivity * 10f);
 
         foreach (var obj in GameObject.FindGameObjectsWithTag("Audio_SFX"))
         {
