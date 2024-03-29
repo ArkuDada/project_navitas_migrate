@@ -1,7 +1,7 @@
 # Project Navitas 
 **3D Platformer Where you push and pull through the air!**
 
-More on [Itch.io Page](https://arkudada.itch.io/proj-navi)
+Downloadble and More on [Itch.io Page](https://arkudada.itch.io/proj-navi)
 
 ## About 
 - Made with Unity3D
