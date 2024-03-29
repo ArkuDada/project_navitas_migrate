@@ -10,7 +10,7 @@ More on [Itch.io Page](https://arkudada.itch.io/proj-navi)
 
 ## Totally Makeshift Team's  Member
 - Pada Cherdchoothai [Producer / Programmer / Designer]
-- Akenat Lertbuaban [Designer / 3D Modeler]
+- Akenat Lertbuaban [Level Designer / 3D Modeler / Audio Designer]
 - Tawan Boonprakob [Designer]
 
 ## Overview
