@@ -53,7 +53,7 @@ public class TipSeq : MonoBehaviour
             currentTip++;
             if (currentTip == TipStage.back)
             {
-                Time.timeScale = 0;
+                Time.timeScale = 0.01f;
             }
 
             if (currentTip == TipStage.chain)
