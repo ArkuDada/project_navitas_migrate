@@ -1,7 +1,7 @@
 # Project Navitas 
 **3D Platformer Where you push and pull through the air!**
 
-More on [Itch.io Page](https://arkudada.itch.io/proj-navi)
+Downloadble and More on [Itch.io Page](https://arkudada.itch.io/proj-navi)
 
 ## About 
 - Made with Unity3D
@@ -10,7 +10,7 @@ More on [Itch.io Page](https://arkudada.itch.io/proj-navi)
 
 ## Totally Makeshift Team's  Member
 - Pada Cherdchoothai [Producer / Programmer / Designer]
-- Akenat Lertbuaban [Designer / 3D Modeler]
+- Akenat Lertbuaban [Level Designer / 3D Modeler / Audio Designer]
 - Tawan Boonprakob [Designer]
 
 ## Overview
